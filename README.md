@@ -1,1 +1,6 @@
-# Stock-Market-Perdiction-in-Nepal-Dataset-using-ML-
+# Stock Market Prediction in Nepali Stock Market using Machine Learning Model
+
+# Abstract 
+The stock market, a key driver of the global economy, presents a formidable challenge for accurate prediction due to its intricate, chaotic, and dynamic nature. This study explores machine learning approaches, specifically comparing three prediction models—Back Propagation Neural Network (BPNN), Long Short-Term Memory (LSTM), and Gated Recurrent Unit (GRU). The analysis incorporates historical stock trading data, including open, high, low, and close prices, and technical analysis indicators such as moving average, Relative Strength Index (RSI), Moving Average Convergence Divergence (MACD), and Commodity Channel Index (CCI) so on. The evaluation focuses on the performance of these models in predicting future trends in stock prices, utilizing data from the Nepal Stock market spanning from 2013 to 2023. The selected stocks for analysis include two stock NIC Asia Bank Limited and, NMB Bank Limited, two index NEPSE and Hydropower index. Through rigorous assessment, it is determined that LSTM demonstrates superior overall performance compared to GRU and BPNN. This research contributes valuable insights into the effectiveness of machine learning models in forecasting stock market trends, with implications for investors and financial practitioners.
+
+**Keywords:**  Machine learning, stock market, BPNN, LSTM, GRU
